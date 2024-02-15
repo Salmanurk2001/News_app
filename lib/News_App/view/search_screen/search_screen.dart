@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
-import 'package:new_project/News_App/controller/search_sceen.dart';
-import 'package:new_project/News_App/view/widget/news_card.dart';
+import 'package:news_project/News_App/controller/search_sceen.dart';
+import 'package:news_project/News_App/view/widget/news_card.dart';
 
 import 'package:provider/provider.dart';
 

@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:new_project/News_App/view/bottom_nav/Main_page.dart';
+import 'package:news_project/News_App/view/bottom_nav/Main_page.dart';
 import 'package:provider/provider.dart';
 import 'controller/bottom_nav.dart';
 import 'controller/categorey_controller.dart';
@@ -37,6 +37,7 @@ class MyApp extends StatelessWidget {
         home: MainPage(),
       ),
     );
+
 
   }
 }

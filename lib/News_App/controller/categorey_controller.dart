@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:new_project/News_App/model/newsmodel.dart';
+import 'package:news_project/News_App/model/newsmodel.dart';
 
 
 

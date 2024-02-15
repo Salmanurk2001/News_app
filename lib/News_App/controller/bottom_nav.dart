@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:new_project/News_App/view/categorey_screen/categorey_screen.dart';
+import 'package:news_project/News_App/view/categorey_screen/categorey_screen.dart';
 
 
-import 'package:new_project/News_App/view/home_screen/home_screen.dart';
-import 'package:new_project/News_App/view/search_screen/search_screen.dart';
+import 'package:news_project/News_App/view/home_screen/home_screen.dart';
+import 'package:news_project/News_App/view/search_screen/search_screen.dart';
 
 class BottomNavController with ChangeNotifier {
   int selectedIndex = 0;

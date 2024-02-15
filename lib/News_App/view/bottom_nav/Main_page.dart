@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:new_project/News_App/controller/bottom_nav.dart';
+import 'package:news_project/News_App/controller/bottom_nav.dart';
+import 'package:news_project/News_App/controller/bottom_nav.dart';
 
 import 'package:provider/provider.dart';
 
